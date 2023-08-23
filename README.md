@@ -1,14 +1,24 @@
 <h1 align="center">Hi 👋, I'm Niranjan</h1>
 <h3 align="center">A passionate software engineer from Kerala</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjannr&label=Profile%20views&color=0e75b6&style=flat" alt="niranjannr" /> </p>
-
 - 🌱 I’m currently learning **OpenCV, DSA**
 
 - 👯 I’m looking to collaborate on **any kind of project that excites me**
 
+- 🤝 I’m looking for help with **data structures and algorithms along with a touch of deep learning.**
+
+- 👨‍💻 All of my projects are available at [https://main--stellar-platypus-64e3b6.netlify.app/](https://main--stellar-platypus-64e3b6.netlify.app/)
+
+- 💬 Ask me about **react, python, tailwindcss**
+
+- 📫 How to reach me **ni.nr272002@gmail.coom**
+
+- ⚡ Fun fact **I am funny, I'm not kidding!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/n r niranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="n r niranjan" height="30" width="40" /></a>
+<a href="https://instagram.com/niranjan_ramachandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niranjan_ramachandran" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u4cse20249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u4cse20249" height="30" width="40" /></a>
 </p>
 
@@ -18,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niranjannr&show_icons=true&locale=en&layout=compact" alt="niranjannr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niranjannr&show_icons=true&locale=en" alt="niranjannr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjannr&" alt="niranjannr" /></p>
