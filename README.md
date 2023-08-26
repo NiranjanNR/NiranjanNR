@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niranjan</h1>
 <h3 align="center">A passionate software engineer from Kerala</h3>
-
+<br />
 - 🌱 I’m currently learning **OpenCV, DSA**
 
 - 👯 I’m looking to collaborate on **any kind of project that excites me**
